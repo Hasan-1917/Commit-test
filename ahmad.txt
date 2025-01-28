@@ -1,4 +1,9 @@
 hello ahmad this side 
+<<<<<<< HEAD
 
 and this is new 1517 1 commit 
 
+=======
+and this is new 1517 1 commit 
+and this is new commit by ahsan and ali s19004
+>>>>>>> origin/master
